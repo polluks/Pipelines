@@ -32,8 +32,8 @@ There are several features that are worth pointing out, I think:
 The list below gives a taste for which stages have been implemented:
 
 * <
-* >
-* >>
+* &gt;
+* &gt;&gt;
 * ABBREV
 * ADDRDW
 * AGGRC
